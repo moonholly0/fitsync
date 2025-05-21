@@ -1,34 +1,69 @@
-name: Mobile FitSync
-description: "SyncFit – Seu parceiro nas atividades físicas ao ar livre"
-full_description: >
-  O SyncFit é um aplicativo pensado para quem ama se movimentar ao ar livre, seja caminhando, correndo ou pedalando. 
-  Com ele, você acompanha de forma simples e prática seu desempenho, como distância percorrida, calorias gastas e até os batimentos cardíacos, se estiver usando um smartwatch.
+<p align="center">
+  <img src="./_images/screenshots/logo.png" alt="FitSync logo" width="200" />
+</p>
 
-  Além disso, o app te ajuda a cuidar da saúde com lembretes de hidratação e um histórico completo das suas atividades, para que você veja sua evolução com clareza. 
-  A interface é fácil de usar e foi feita para todo tipo de pessoa, desde quem está começando até atletas mais experientes.
+# 🏃‍♀️ FitSync – Seu parceiro nas atividades físicas ao ar livre
 
-  Com o SyncFit, seus treinos ficam mais organizados, eficientes e conectados com você.
+O **FitSync** é um aplicativo completo para quem ama se movimentar. Seja correndo, caminhando ou pedalando, ele te ajuda a acompanhar o desempenho, evoluir e cuidar da saúde. Sincronize com seu smartwatch, receba lembretes para se hidratar e acompanhe gráficos com sua evolução.
 
-  Funcionalidades:
-    - Visualize relatórios com insights sobre sua evolução, metas e desempenho físico.
-    - Receba notificações personalizáveis para lembrar de beber água durante e após os treinos.
-    - Tenha acesso ao seu histórico completo de atividades com gráficos, comparações e progresso ao longo do tempo.
+---
 
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+## 📲 Funcionalidades
 
-screenshots:
-  - https://github.com/moonholly0/fitsync/raw/main/_images/screenshots/fit1.png
-  - https://github.com/moonholly0/fitsync/raw/main/_images/screenshots/fit2.png
-  - https://github.com/moonholly0/fitsync/raw/main/_images/screenshots/fit3.png
-  - https://github.com/moonholly0/fitsync/raw/main/_images/screenshots/fit4.png
-  - https://github.com/moonholly0/fitsync/raw/main/_images/screenshots/fit5.png
+- 📍 Monitoramento por GPS: caminhada, corrida, ciclismo
+- 🔥 Cálculo de distância e calorias gastas
+- ⌚ Integração com smartwatches (Apple, Garmin, Fitbit etc.)
+- 💧 Lembretes de hidratação durante o treino
+- 📈 Histórico e gráficos de desempenho
+- 🔐 Segurança e privacidade dos dados
 
-producthunt: https://telegra.ph/Replace-this-link-07-23
+---
 
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+## 🖼️ Imagens do App
+
+### Tela inicial e menu
+<img src="./_images/screenshots/fit1.png" width="300"/> <img src="./_images/screenshots/fit2.png" width="300"/>
+
+### Monitoramento da atividade e trajeto
+<img src="./_images/screenshots/fit3.png" width="300"/> <img src="./_images/screenshots/fit4.png" width="300"/>
+
+### Gráficos de desempenho e configurações
+<img src="./_images/screenshots/fit5.png" width="300"/>
+
+---
+
+## 🔗 Download
+
+- 📱 Android: [Em breve](https://telegra.ph/Replace-this-link-07-23)
+- 🍎 iOS: [Em breve](https://telegra.ph/Replace-this-link-07-23)
+- 🌐 Web: [Em breve](https://telegra.ph/Replace-this-link-07-23)
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- Flutter ou React Native (?)
+- Firebase para autenticação e banco de dados
+- APIs de sensores e GPS
+- Integração com smartwatches via Bluetooth
+
+---
+
+## 🚀 Roadmap
+
+- [x] MVP com rastreamento e lembretes
+- [ ] Planos de treino personalizados
+- [ ] Desafios e ranking entre amigos
+- [ ] Integração com redes sociais
+
+---
+
+## 🤝 Contribua
+
+Tem sugestões ou quer contribuir com o projeto? Fique à vontade para abrir uma *issue* ou *pull request*!
+
+---
+
+<p align="center">
+  Feito com ❤️ pela equipe do FitSync
+</p>
