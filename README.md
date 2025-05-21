@@ -31,4 +31,42 @@ O **FitSync** é um aplicativo completo para quem ama se movimentar. Seja corren
 
 ### Gráficos de desempenho e configurações
 
-<img
+<img src="https://github.com/moonholly0/fitsync/raw/main/images/screenshots/fit5.png" width="300"/>
+
+---
+
+## 🔗 Download
+
+- 📱 Android: [Em breve](https://telegra.ph/Replace-this-link-07-23)
+- 🍎 iOS: [Em breve](https://telegra.ph/Replace-this-link-07-23)
+- 🌐 Web: [Em breve](https://telegra.ph/Replace-this-link-07-23)
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- Flutter ou React Native (?)
+- Firebase para autenticação e banco de dados
+- APIs de sensores e GPS
+- Integração com smartwatches via Bluetooth
+
+---
+
+## 🚀 Roadmap
+
+- [x] MVP com rastreamento e lembretes
+- [ ] Planos de treino personalizados
+- [ ] Desafios e ranking entre amigos
+- [ ] Integração com redes sociais
+
+---
+
+## 🤝 Contribua
+
+Tem sugestões ou quer contribuir com o projeto? Fique à vontade para abrir uma *issue* ou *pull request*!
+
+---
+
+<p align="center">
+  Feito com ❤️ pela equipe do FitSync
+</p>
